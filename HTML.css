@@ -115,3 +115,8 @@ h2{
     font-size: 35px;
 }
 
+table{
+    width: 1000px;
+   margin-left: 500px;
+   border-style: hidden;
+}
